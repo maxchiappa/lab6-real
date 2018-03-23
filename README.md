@@ -1,1 +1,2 @@
-# lab6-real
+# JSPlatformer
+JS Platformer for DIG 3480C
